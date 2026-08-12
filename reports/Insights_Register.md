@@ -22,7 +22,7 @@ Develop sustainability-focused marketing campaigns targeting environmentally con
 Does range anxiety influence EV purchase intention?
 
 ### Key Finding
-Consumers with low range anxiety are substantially more likely to purchase an EV than consumers with high range anxiety.
+Consumers with low range anxiety are substantially more likely to purchase an EV than consumers with high range anxiety. Adoption was 19.87% among Low-anxiety consumers compared with just 0.60% among High-anxiety consumers.
 
 ### Business Impact
 High
@@ -38,7 +38,7 @@ Educate customers on real-world EV range, charging infrastructure, and battery t
 Does annual income influence EV purchase intention?
 
 ### Key Finding
-Higher-income consumers show greater EV purchase intention than lower-income consumers.
+Higher-income consumers show greater EV purchase intention than lower-income consumers. Adoption was 26.04% among High-income consumers compared with 9.44% among Low-income consumers.
 
 ### Business Impact
 High
@@ -54,13 +54,13 @@ Target premium and upper-middle-income consumers while offering financing option
 Does home charging influence EV purchase intention?
 
 ### Key Finding
-Consumers with home charging availability exhibit higher EV purchase intention.
+Home charging availability shows a weak and inconsistent relationship with EV purchase intention. Adoption rates were 17.91% for the Low group, 16.53% for the Medium group, and 18.11% for the High group.
 
 ### Business Impact
-Medium
+Low — home charging availability does not show a strong or consistent relationship with EV purchase intention in this dataset.
 
 ### Recommendation
-Partner with home charger providers and promote home charging solutions.
+Do not treat home charging availability as a primary targeting variable. Focus marketing resources on stronger adoption drivers such as subsidy availability, income, and range-anxiety reduction.
 
 ---
 
@@ -70,10 +70,32 @@ Partner with home charger providers and promote home charging solutions.
 Do government subsidies influence EV purchase intention?
 
 ### Key Finding
-Consumers eligible for government subsidies show significantly higher EV purchase intention than those without subsidies.
+Consumers with subsidy availability show substantially higher EV purchase intention: 27.45% compared with 2.53% for consumers without subsidy availability.
 
 ### Business Impact
 High
 
 ### Recommendation
-Prominently communicate subsidy eligibility and estimated savings during the customer purchase journey.
+High — subsidy availability is strongly associated with EV purchase intention, with adoption approximately 10.8× higher among customers with subsidies.
+
+---
+
+## INS-006
+
+### Business Question
+
+Which combination of customer characteristics represents the strongest EV adoption segment?
+
+### Key Finding
+
+High-income consumers with low range anxiety and subsidy availability show the highest EV purchase intention, with an adoption rate of 43.98%.
+
+### Business Impact
+
+High — this segment has an adoption rate approximately 2.5 times the overall dataset adoption rate of 17.5%.
+
+### Recommendation
+
+Prioritize high-income and upper-middle-income customers with low range anxiety and available subsidies through targeted campaigns, while using financing and education strategies to expand adoption among lower-potential segments.
+
+---
